@@ -41,6 +41,8 @@ public class SampleSQL {
 			System.out.println("This is master copy");
 			System.out.println("This is edited by anand");
 			System.out.println("This is edited by Master second time");
+			System.out.println("This is edited by anand second time locally");
+			System.out.println("Third");
 			
 			
 		}
