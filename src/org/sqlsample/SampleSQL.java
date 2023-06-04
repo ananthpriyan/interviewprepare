@@ -39,6 +39,7 @@ public class SampleSQL {
 			
 			System.out.println(string+string2);
 			System.out.println("This is master copy");
+			System.out.println("This is edited by anand");
 			
 		}
 		
