@@ -38,6 +38,8 @@ public class SampleSQL {
 			String string2 = rs.getString("Last_name");
 			
 			System.out.println(string+string2);
+			System.out.println("This is master copy");
+			
 		}
 		
 		connection.close();
